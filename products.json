@@ -1,0 +1,55 @@
+{
+  "products": {
+    "FIREBASE_PUSH_ID_00001": {
+      "gtin13Num": "7501001164669",
+      "name": "Shampoo Pantene Pro-v Liso Extremo 200ml",
+      "brand": "Pantene",
+      "associatedComponents": {
+        "FIREBASE_PUSH_ID_00009": {
+          "casNumber": {
+            "cas": "98112-64-2",
+            "undash": 98112642,
+            "firstPart": 98112,
+            "secondPart": 64,
+            "checksum": 2
+          },
+          "name": "Lauril éter sulfato de sódio",
+          "isSimilar": false
+        },
+        "FIREBASE_PUSH_ID_00008": {
+          "casNumber": {
+            "cas": "8012-56-4",
+            "undash": 8012564,
+            "firstPart": 8012,
+            "secondPart": 56,
+            "checksum": 4
+          },
+          "name": "Lauril sulfato de sódio",
+          "isSimilar": false
+        }
+      }
+    },
+    "FIREBASE_PUSH_ID_00002": {
+      "gtin13Num": "7891150019508",
+      "name": "Shampoo Anticaspa Limpeza Profunda Clear Men 200ml",
+      "brand": "Clear",
+      "associatedComponents": {
+        "FIREBASE_PUSH_ID_00012": {
+          "name": "Água",
+          "isSimilar": true
+        },
+        "FIREBASE_PUSH_ID_00009": {
+          "casNumber": {
+            "cas": "98112-64-2",
+            "undash": 98112642,
+            "firstPart": 98112,
+            "secondPart": 64,
+            "checksum": 2
+          },
+          "name": "Lauril éter sulfato de sódio",
+          "isSimilar": false
+        }
+      }
+    }
+  }
+}

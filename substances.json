@@ -1,93 +1,49 @@
 {
-  "components": {
+  "substances": {
     "FIREBASE_PUSH_ID_00001": {
-      "casNumber": {
-        "cas": "7440-21-3",
-        "undash": 7440213,
-        "firstPart": 7440,
-        "secondPart": 21,
-        "checksum": 5
-      },
+      "cas1": 7440,
+      "cas2": 21,
+      "cas3": 5,
       "name": "Cafeína",
       "isSimilar": false
     },
     "FIREBASE_PUSH_ID_00002": {
-      "casNumber": {
-        "cas": "63-42-3",
-        "undash": 63423,
-        "firstPart": 63,
-        "secondPart": 42,
-        "checksum": 3
-      },
+      "cas1": 63423,
+      "cas2": 63,
+      "cas3": 42,
       "name": "Lactose",
       "isSimilar": false
     },
     "FIREBASE_PUSH_ID_00003": {
-      "casNumber": {
-        "cas": "7440-21-3",
-        "undash": 7440213,
-        "firstPart": 7440,
-        "secondPart": 21,
-        "checksum": 3
-      },
+      "cas1": 7440,
+      "cas2": 21,
+      "cas3": 3,
       "name": "Silicone",
       "isSimilar": false
     },
     "FIREBASE_PUSH_ID_00004": {
-      "casNumber": {
-        "cas": "98-82-8",
-        "undash": 98828,
-        "firstPart": 98,
-        "secondPart": 82,
-        "checksum": 8
-      },
+      "cas1": 98,
+      "cas2": 82,
+      "cas3": 8,
       "name": "Latex",
       "isSimilar": false
     },
     "FIREBASE_PUSH_ID_00005": {
-      "casNumber": {
-        "cas": "7803-62-5",
-        "undash": 7803625,
-        "firstPart": 7803,
-        "secondPart": 62,
-        "checksum": 5
-      },
+      "cas1": 7803,
+      "cas2": 62,
+      "cas3": 5,
       "name": "Silano",
       "isSimilar": false
     },
     "FIREBASE_PUSH_ID_00006": {
-      "casNumber": {
-        "cas": "69430-24-6",
-        "undash": 69430246,
-        "firstPart": 69430,
-        "secondPart": 24,
-        "checksum": 6
-      },
+      "firstPart": 69430,
+      "secondPart": 24,
+      "checksum": 6,
       "name": "Ciclometicone",
       "isSimilar": true,
       "similarTo": {
-        "FIREBASE_PUSH_ID_00003": {
-          "casNumber": {
-            "cas": "7440-21-3",
-            "undash": 7440213,
-            "firstPart": 7440,
-            "secondPart": 21,
-            "checksum": 3
-          },
-          "name": "Silicone",
-          "isSimilar": false
-        },
-        "FIREBASE_PUSH_ID_00005": {
-          "casNumber": {
-            "cas": "7803-62-5",
-            "undash": 7803625,
-            "firstPart": 7803,
-            "secondPart": 62,
-            "checksum": 5
-          },
-          "name": "Silano",
-          "isSimilar": false
-        }
+        "FIREBASE_PUSH_ID_00003": true,
+        "FIREBASE_PUSH_ID_00005": true
       }
     },
     "FIREBASE_PUSH_ID_00007": {
@@ -95,24 +51,16 @@
       "isSimilar": true
     },
     "FIREBASE_PUSH_ID_00008": {
-      "casNumber": {
-        "cas": "8012-56-4",
-        "undash": 8012564,
-        "firstPart": 8012,
-        "secondPart": 56,
-        "checksum": 4
-      },
+      "cas1": 8012,
+      "cas2": 56,
+      "cas3": 4,
       "name": "Lauril sulfato de sódio",
       "isSimilar": false
     },
     "FIREBASE_PUSH_ID_00009": {
-      "casNumber": {
-        "cas": "98112-64-2",
-        "undash": 98112642,
-        "firstPart": 98112,
-        "secondPart": 64,
-        "checksum": 2
-      },
+      "cas1": 98112,
+      "cas2": 64,
+      "cas3": 2,
       "name": "Lauril éter sulfato de sódio",
       "isSimilar": false
     },
@@ -124,24 +72,11 @@
       "name": "Dodecil sulfato de sódio",
       "isSimilar": true,
       "similarTo": {
-        "FIREBASE_PUSH_ID_00010": {
-          "name": "SLS",
-          "isSimilar": true
-        },
-        "FIREBASE_PUSH_ID_00008": {
-          "casNumber": {
-            "cas": "8012-56-4",
-            "undash": 8012564,
-            "firstPart": 8012,
-            "secondPart": 56,
-            "checksum": 4
-          },
-          "name": "Lauril sulfato de sódio",
-          "isSimilar": false
-        }
+        "FIREBASE_PUSH_ID_00010": true,
+        "FIREBASE_PUSH_ID_00008": true
       }
     },
-    "FIREBASE_PUSH_ID_00012":{
+    "FIREBASE_PUSH_ID_00012": {
       "name": "Água",
       "isSimilar": true
     }

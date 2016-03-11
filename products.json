@@ -1,20 +1,22 @@
-"products": {
-  "FIREBASE_PUSH_ID_00001": {
-    "gtin13Num": "7501001164669",
-    "name": "Shampoo Pantene Pro-v Liso Extremo 200ml",
-    "brand": "Pantene",
-    "associatedComponents": {
-      "FIREBASE_PUSH_ID_00009": true,
-      "FIREBASE_PUSH_ID_00008": true
-    }
-  },
-  "FIREBASE_PUSH_ID_00002": {
-    "gtin13Num": "7891150019508",
-    "name": "Shampoo Anticaspa Limpeza Profunda Clear Men 200ml",
-    "brand": "Clear",
-    "associatedComponents": {
-      "FIREBASE_PUSH_ID_00012": true,
-      "FIREBASE_PUSH_ID_00009": true
+{
+    "products": {
+    "PROD_FIREBASE_PUSH_ID_00001": {
+      "gtin13Num": "7501001164669",
+      "name": "Shampoo Pantene Pro-v Liso Extremo 200ml",
+      "brand": "Pantene",
+      "associatedComponents": {
+        "SUBST_FIREBASE_PUSH_ID_00009": true,
+        "SUBST_FIREBASE_PUSH_ID_00008": true
+      }
+    },
+    "PROD_FIREBASE_PUSH_ID_00002": {
+      "gtin13Num": "7891150019508",
+      "name": "Shampoo Anticaspa Limpeza Profunda Clear Men 200ml",
+      "brand": "Clear",
+      "associatedComponents": {
+        "SUBST_FIREBASE_PUSH_ID_00012": true,
+        "SUBST_FIREBASE_PUSH_ID_00009": true
+      }
     }
   }
 }

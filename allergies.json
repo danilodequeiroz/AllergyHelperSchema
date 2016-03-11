@@ -1,17 +1,18 @@
-
+{
   "allergies": {
-    "FIREBASE_PUSH_ID_00001": {
+    "ALG_FIREBASE_PUSH_ID_00001": {
       "name": "Lauril éter sulfato",
       "desc": "Alergia geralmente relacionada a coceiras e irritação no couro cabeludo.",
-      "mainComponent": {
+      "mainSubstance": {
         "FIREBASE_PUSH_ID_00009": true
       }
     },
-    "FIREBASE_PUSH_ID_00002": {
+    "ALG_FIREBASE_PUSH_ID_00002": {
       "name": "Silicone",
       "desc": "Diversas reações cutâneas relacionada ao uso de cosméticos com derivados do silicone.",
-      "mainComponent": {
+      "mainSubstance": {
         "FIREBASE_PUSH_ID_00003": true
       }
     }
   }
+}

@@ -1,82 +1,82 @@
 {
   "substances": {
-    "FIREBASE_PUSH_ID_00001": {
+    "SUBST_FIREBASE_PUSH_ID_00001": {
       "cas1": 7440,
       "cas2": 21,
       "cas3": 5,
       "name": "Cafeína",
       "isSimilar": false
     },
-    "FIREBASE_PUSH_ID_00002": {
+    "SUBST_FIREBASE_PUSH_ID_00002": {
       "cas1": 63423,
       "cas2": 63,
       "cas3": 42,
       "name": "Lactose",
       "isSimilar": false
     },
-    "FIREBASE_PUSH_ID_00003": {
+    "SUBST_FIREBASE_PUSH_ID_00003": {
       "cas1": 7440,
       "cas2": 21,
       "cas3": 3,
       "name": "Silicone",
       "isSimilar": false
     },
-    "FIREBASE_PUSH_ID_00004": {
+    "SUBST_FIREBASE_PUSH_ID_00004": {
       "cas1": 98,
       "cas2": 82,
       "cas3": 8,
       "name": "Latex",
       "isSimilar": false
     },
-    "FIREBASE_PUSH_ID_00005": {
+    "SUBST_FIREBASE_PUSH_ID_00005": {
       "cas1": 7803,
       "cas2": 62,
       "cas3": 5,
       "name": "Silano",
       "isSimilar": false
     },
-    "FIREBASE_PUSH_ID_00006": {
+    "SUBST_FIREBASE_PUSH_ID_00006": {
       "firstPart": 69430,
       "secondPart": 24,
       "checksum": 6,
       "name": "Ciclometicone",
       "isSimilar": true,
       "similarTo": {
-        "FIREBASE_PUSH_ID_00003": true,
-        "FIREBASE_PUSH_ID_00005": true
+        "SUBST_FIREBASE_PUSH_ID_00003": true,
+        "SUBST_FIREBASE_PUSH_ID_00005": true
       }
     },
-    "FIREBASE_PUSH_ID_00007": {
+    "SUBST_FIREBASE_PUSH_ID_00007": {
       "name": "SLES",
       "isSimilar": true
     },
-    "FIREBASE_PUSH_ID_00008": {
+    "SUBST_FIREBASE_PUSH_ID_00008": {
       "cas1": 8012,
       "cas2": 56,
       "cas3": 4,
       "name": "Lauril sulfato de sódio",
       "isSimilar": false
     },
-    "FIREBASE_PUSH_ID_00009": {
+    "SUBST_FIREBASE_PUSH_ID_00009": {
       "cas1": 98112,
       "cas2": 64,
       "cas3": 2,
       "name": "Lauril éter sulfato de sódio",
       "isSimilar": false
     },
-    "FIREBASE_PUSH_ID_00010": {
+    "SUBST_FIREBASE_PUSH_ID_00010": {
       "name": "SLS",
       "isSimilar": true
     },
-    "FIREBASE_PUSH_ID_00011": {
+    "SUBST_FIREBASE_PUSH_ID_00011": {
       "name": "Dodecil sulfato de sódio",
       "isSimilar": true,
       "similarTo": {
-        "FIREBASE_PUSH_ID_00010": true,
-        "FIREBASE_PUSH_ID_00008": true
+        "SUBST_FIREBASE_PUSH_ID_00010": true,
+        "SUBST_FIREBASE_PUSH_ID_00008": true
       }
     },
-    "FIREBASE_PUSH_ID_00012": {
+    "SUBST_FIREBASE_PUSH_ID_00012": {
       "name": "Água",
       "isSimilar": true
     }
